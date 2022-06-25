@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Lottery contract
+It's using hardhat, Chainlink VRF V2 and ChainLink keepers
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+Rinkeby address:
+https://rinkeby.etherscan.io/address/0x7B5Ca319754F451c75Ee4002b5024c59cEa58E2E#readContract
 ```
